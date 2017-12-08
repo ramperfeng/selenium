@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22122" started-at="2017-12-08T02:33:35Z" finished-at="2017-12-08T02:33:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22122" started-at="2017-12-08T02:33:35Z" finished-at="2017-12-08T02:33:57Z">
+      <class name="com.selenium.testscripts.PetstoreTest">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.selenium.testscripts.PetstoreTest@ae45eb6]" name="openApp" is-config="true" duration-ms="11877" started-at="2017-12-08T08:03:35Z" finished-at="2017-12-08T08:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="addPetstore()[pri:0, instance:com.selenium.testscripts.PetstoreTest@ae45eb6]" name="addPetstore" duration-ms="7619" started-at="2017-12-08T08:03:47Z" finished-at="2017-12-08T08:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPetstore -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.selenium.testscripts.PetstoreTest@ae45eb6]" name="teardown" is-config="true" duration-ms="2601" started-at="2017-12-08T08:03:54Z" finished-at="2017-12-08T08:03:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.selenium.testscripts.PetstoreTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
