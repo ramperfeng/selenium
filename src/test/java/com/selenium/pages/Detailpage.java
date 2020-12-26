@@ -5,6 +5,8 @@ import com.selenium.config.OR;
 
 public class Detailpage {
 	
+	//details pages added comment
+	
 	/*@FindBy(xpath=OR.addtokart)
 	public WebElement addtokart;
 	
