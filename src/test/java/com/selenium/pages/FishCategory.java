@@ -12,6 +12,7 @@ import com.selenium.config.OR;
 
 public class FishCategory {
 	
+	//adding new line into the fishcategorypage
 	Actions a;
 	
 	@FindBy(xpath=OR.Fish)
